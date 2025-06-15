@@ -1,53 +1,46 @@
 ---
-authors:
-- admin
-bio: medical doctor turned neuroscientist and image analyst.
-education:
-  courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
-interests:
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open science
-- Software
-name: Nikoloz Sirmpilatze
-organizations:
-- name: Sainsbury Wellcome Centre
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/niksirbi
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/niksirbi
+# Display name
+title: Bowen Yang
+
+# Is this the primary user of the site?
 superuser: true
-user_groups:
-- Researchers
-- Visitors
+
+# Role/position/tagline
+role: PhD student in Chemistry
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Prof. Liang Li's Group 
+    url: https://tmiclinode.com
+  - name: The Metabolomics Innovation Centre (TMIC)
+    url: https://metabolomicscentre.ca
+
+# Short bio (displayed in user profile at end of posts)
+bio: Bioinformatics, Metabolomics, Mass Spectrometry.
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Bowen999
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=4HcEa6oAAAAJ&hl=en
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'by8@ualberta.ca'
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
+I'm a Chemistry PhD student at the University of Alberta, under the supervision of [Dr. Liang Li](https://spaces.facsci.ualberta.ca/liweb/prof-liang-li/) (fellow of the Royal Society of Canada). Before that, I completed my Bioinformatics Master's degree in the [Dr. Fornace Lab](https://fornacelab.georgetown.edu) at Georgetown University.  
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+My research interests focus on the development of metabolomics-centered multi omics analysis methods, and their practical applications in the real world. This includes simplifying data analysis through user-friendly software, developing high-coverage and accurate metabolite identification methods, and inferring biological networks from multi-omics data. My primary approaches involve software development, mass spectrometry, bioinformatics analysis, and machine learning.
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
-
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
+If you're interested in my research or potential collaborations, feel free to drop me an e-mail!
 
